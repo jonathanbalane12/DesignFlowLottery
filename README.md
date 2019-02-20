@@ -1,6 +1,8 @@
 # DesignFlowLottery
 Process Flow in kinds of Lottery 
 
+### This 4 Process Flow Lottery is based on the Ethereum Platform.
+
 # Simple Lottery
 -------------------------------------------------------------------------------------------------------------------------------
 <img src="https://i.imgur.com/bV151rf.png" width="100%" height="100%">

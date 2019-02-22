@@ -1,6 +1,8 @@
 # DesignFlowLottery
 Process Flow in kinds of Lottery 
 
+To Open the xml file just go to this link : https://www.draw.io/ 
+
 ### This 4 Process Flow Lottery is based on the Ethereum Platform.
 
 # Simple Lottery
